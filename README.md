@@ -90,6 +90,7 @@ model.fit(X_train, y_train)
 
 ## Model Performance
 | Metric |	Score |
+|........|.........|
 | AUC-ROC |	0.8866 |
 | Accuracy	| Strong |
 | Precision |	Strong |
