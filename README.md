@@ -89,7 +89,7 @@ model.fit(X_train, y_train)
 - F1 Score
 
 ## Model Performance
-| Metric |	Score |
+| ** Metric ** |	** Score ** |
 |--------|---------|
 | AUC-ROC |	0.8866 |
 | Accuracy	| Strong |
