@@ -1,4 +1,4 @@
-# Breast Cancer Classification — Logistic Regression
+# Breast Cancer Classification - Logistic Regression
 
 End-to-end Machine Learning pipeline for breast cancer tumor classification using Logistic Regression and Scikit-Learn.
 
