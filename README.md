@@ -133,7 +133,9 @@ with open("Breast_cancer.pkl", "rb") as f:
     model = pickle.load(f)
 
 prediction = model.predict(X_new)
-# Example: Compute AUC Score
+```
+### Example: Compute AUC Score
+```
 from sklearn.metrics import roc_auc_score
 
 y_prob = model.predict_proba(X_test)[:, 1]
