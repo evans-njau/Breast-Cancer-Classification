@@ -100,8 +100,11 @@ An AUC score close to 1 indicates strong separability between malignant and beni
 
 ## Project Structure
 ├── Breast Cancer Logistic Regression Model.ipynb
+
 ├── Breast_cancer.pkl
+
 ├── README.md
+
 ## How to Run
 ** Install Dependencies **
 ```
