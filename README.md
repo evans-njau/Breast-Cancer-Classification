@@ -107,11 +107,11 @@ An AUC score close to 1 indicates strong separability between malignant and beni
 ├── README.md
 
 ## How to Run
-** Install Dependencies **
+#### Install Dependencies 
 ```
 pip install pandas numpy scikit-learn
 ```
-** Run the Notebook **
+#### Run the Notebook
 
 Open:
 
